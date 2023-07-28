@@ -1,2 +1,5 @@
-# OIBSIP_Landing_Page
-This is my task 1 on OASIS INFOBYTE internship to build a Landing Page
+# Zomato Landing Page 10622
+
+This is a basic web development project built with HTML and CSS.
+
+This is New Setup Branch
